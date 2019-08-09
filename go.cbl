@@ -8,7 +8,7 @@
        PROCEDURE DIVISION.
           A-PARA.
           DISPLAY 'IN A-PARA'
-          GO TO B-PARA.
+          GO TO D-PARA.
         
           D-PARA.
           DISPLAY 'IN D-PARA '.
